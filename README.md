@@ -9,6 +9,7 @@ https://layer0-docs-layer0-prerender-example-default.layer0-limelight.link/prere
 ## Try It Now
 
 [![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-prerender-example)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-crystalai.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-crystalai?ref=badge_shield)
 
 ## Getting Started
 
@@ -53,3 +54,7 @@ npm run layer0:deploy
 ```
 
 See [deploying](https://docs.layer0.co/guides/deploying) for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-crystalai.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-crystalai?ref=badge_large)
